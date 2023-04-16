@@ -47,8 +47,8 @@ body {
   display: inline-flex;
   margin-bottom: 5px;
   margin-left: -15px;
-  width: 220px;
-  height: 220px;
+  width: 240px;
+  height: 230px;
   border-radius: 50%;
   background-image: url("https://image.freepik.com/free-photo/waist-up-portrait-handsome-serious-unshaven-male-keeps-hands-together-dressed-dark-blue-shirt-has-talk-with-interlocutor-stands-against-white-wall-self-confident-man-freelancer_273609-16320.jpg");
   background-position: center top;
@@ -77,7 +77,7 @@ body {
 }
 .grid-container .zone-1 .personal-box > *:not(.title) {
   margin: 25px 0px;
-  grid-template-columns: 0.55fr 1fr;
+  grid-template-columns: 0.7fr 1fr;
   display: grid;
 }
 .grid-container .zone-1 .personal-box .progress .dot {
