@@ -80,7 +80,7 @@ body {
 }
 .grid-container .zone-1 .personal-box > *:not(.title) {
   margin: 25px 0px;
-  grid-template-columns: 0.7fr 1fr;
+  grid-template-columns: 0.3fr 1fr;
   display: grid;
 }
 .grid-container .zone-1 .personal-box .progress .dot {
@@ -92,7 +92,7 @@ body {
   margin-left: 4px;
 }
 .grid-container .zone-1 .personal-box .progress .dot.active {
-  background-color: #9db858;
+  background-color: #118dc7 ;
 }
 .grid-container .zone-1 .hobbies-box {
   margin-top: 35px;
@@ -112,7 +112,7 @@ body {
 }
 .grid-container .zone-2 .headTitle {
   font-size: 2.1em;
-  color: #9db858;
+  color: #118dc7 ;
 }
 .grid-container .zone-2 .headTitle h1 {
   font-weight: 400 !important;
@@ -125,7 +125,7 @@ body {
   padding: 2px 70px 2px 20px;
   margin-left: -20px;
   margin-top: 35px;
-  background: #9db858;
+  background: #118dc7 ;
   color: #2c2b29;
 }
 .grid-container .zone-2 .group-1 .desc {
@@ -149,7 +149,7 @@ body {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #9db858;
+  background: #118dc7 ;
 }
 .grid-container .zone-2 .group-2 .desc ul li {
   list-style-type: none;
@@ -161,13 +161,13 @@ body {
   top: 12px;
   left: -18px;
   height: 60px;
-  border-left: 2px solid #9db858;
+  border-left: 2px solid #118dc7 ;
 }
 .grid-container .zone-2 .group-2 .desc ul:last-of-type li:before {
   content: none;
 }
 .grid-container .zone-2 .group-2 .desc ul li div:last-of-type {
-  color: #9db858;
+  color: #118dc7 ;
   font-weight: bold;
 }
 .grid-container .zone-2 .group-3 .desc {
@@ -187,7 +187,7 @@ body {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #9db858;
+  background: #118dc7 ;
 }
 .grid-container .zone-2 .group-3 .desc ul li {
   list-style-type: none;
@@ -199,16 +199,20 @@ body {
   top: 30px;
   left: -18px;
   height: 100px;
-  border-left: 2px solid #9db858;
+  border-left: 2px solid #118dc7 ;
 }
 .grid-container .zone-2 .group-3 .desc ul:last-of-type li:before {
   content: none;
 }
 .grid-container .zone-2 .group-3 .desc ul li div:nth-child(2) {
-  color: #9db858;
+  color: #118dc7  ;
   font-weight: bold;
 }
 .privacy{
   margin-top: 3.5rem;
-  color: dodgerblue;
+  color: #118dc7;
+}
+
+.skill-1,.skill-2,.skill-3,.skill-4,.skill-5,.skill-6,.skill-7,.skill-8{
+  font-weight: bold;
 }
