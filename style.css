@@ -107,7 +107,7 @@ body {
 .grid-container .zone-2 {
   background: #2c2b29;
   padding: 40px 20px;
-  padding-right: 60px;
+  /* padding-right: 60px; */
   color: #b5b5b4;
 }
 .grid-container .zone-2 .headTitle {
